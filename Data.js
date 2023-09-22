@@ -114,8 +114,7 @@ const Data = [
         {
             "id": 16,
             "title": "New AI Tool 'FraudGPT' Emerges, Tailored for Sophisticated Attacks - The Hacker News",
-            "img_url": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgkUhU2G4STDTvac1zmZZ0odmJvjr6-uodIsgfffrWvw8u0NnvRa-FoJQ_VvZaXgZ_QOqR934sv0X9sMydRzcsFaXW4IfX4QwJXgjHOJWzzFAbfZ7N3tfPDaHRcnM5cp-EIsnG13nXhILGQeVCMfUgunPGvWFgOgRSpBqe5fIBwhJ4WL0zpyhu7P9i0qTno/s728-e3650/gpt.jpg",
-            "description": "Following the footsteps of WormGPT, threat actors are advertising yet another cybercrime generative artificial intelligence (AI) tool dubbed FraudGPT on various dark web marketplaces and Telegram channels. 'This is an AI bot, exclusively targeted for offensive purposes, such as crafting spear phishing emails, creating cracking tools, carding, etc.,' Netenrich security researcher Rakesh Krishnan said in a report published Tuesday.",
+            "img_url": "https://cdn.zeebiz.com/sites/default/files/2023/07/31/254000-news18-bl-zb.jpg",
             "category": "Technology"
         },
         {
